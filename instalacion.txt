@@ -1,0 +1,19 @@
+PASOS REALIZADOS POR INTEGRANTE 2:
+
+1. Creación de la base de datos:
+   - Nombre: alimentos82024
+   - Tabla: alimentos (estructura indicada en el enunciado).
+   - URL de phpMyAdmin: https://phpmyadmin.mi-alojamiento.com
+
+2. Archivo Model.php:
+   - Implementado con las funciones básicas para interactuar con la base de datos (CRUD).
+
+3. Archivo Config.php:
+   - Configurado para conectarse a la base de datos del servidor de CDMON.
+
+4. Subida al repositorio compartido:
+   - Subí los archivos Model.php y Config.php al repositorio compartido en GitHub.
+
+5. Pruebas realizadas:
+   - Probé la conexión con la base de datos en local y confirmé que la tabla `alimentos` es accesible.
+   - Confirmé que la base de datos está operativa en el servidor y accesible desde la URL de phpMyAdmin.
