@@ -1,0 +1,5 @@
+Alejandro Aguilar: Mi experiencia fue positiva, me encargué de gestionar el repositorio y subir los archivos asignados.
+
+Marcos Dominguez: La tarea de crear la base de datos y configurarla en el hosting fue interesante y me ayudó a aprender mucho.
+
+Adriel Rodriguez: Disfruté trabajar en el controlador y la configuración, aunque enfrenté algunos retos con la conexión a la base de datos.
