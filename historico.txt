@@ -1,0 +1,16 @@
+Alejandro (Integrante 1):
+Alejandro fue el encargado de administrar el repositorio en GitHub y realizar la configuración inicial para el equipo. Su primera tarea fue crear el repositorio público en GitHub, titulado GRUPO8DAW. En este repositorio, también se encargó de asociar a los otros dos integrantes (Marcos y Adriel), otorgándoles permisos para que pudieran contribuir.
+A continuación, subió todos los archivos correspondientes a la vista y front-end del proyecto, organizados en las carpetas /app/templates para las vistas y en web/css, web/js y web/images para los archivos front-end.
+Finalmente, recogió las valoraciones de la experiencia de trabajo del resto del equipo, las cuales incluyó en un archivo de texto llamado valoraciones.txt. En dicho archivo, se detallan las valoraciones de los integrantes sobre su participación en el proyecto.
+  
+  Marcos (Integrante 2):
+Marcos se encargó del modelo de datos y la creación de la base de datos. Su tarea inicial fue crear una base de datos en su hosting de CDMON, denominada alimentos82024, e implementar la tabla alimentos con la estructura especificada en el enunciado, que incluye los campos solicitados.
+Además, Marcos desplegó el proyecto en su hosting utilizando SSH y comandos GIT, alojando el proyecto en una carpeta específica para el proyecto en su servidor.
+Como parte de su responsabilidad, subió las instrucciones detalladas sobre la instalación y despliegue del proyecto en GitHub, explicando todos los pasos y comandos realizados mediante un archivo llamado instalación.txt.
+
+Adriel (Integrante 3):
+Adriel fue responsable de la configuración del controlador y el archivo Config.php. Su primera tarea fue modificar el archivo Config.php para que incluyera los datos de conexión a la base de datos proporcionados por Marcos, lo que permitió que el proyecto pudiera interactuar correctamente con la base de datos alojada en su hosting.
+Posteriormente, se encargó de escribir el histórico de las tareas realizadas por el equipo en un archivo llamado histórico.txt, donde se documentaron las tareas asignadas a cada integrante, las actividades realizadas y los resultados obtenidos.
+Finalmente, incluyó en este archivo la URL del proyecto desplegado en el hosting, lo que permitió al equipo y al profesor verificar que la aplicación estaba operativa.
+
+grupo8daw.com.mialias.net
